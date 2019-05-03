@@ -1,6 +1,6 @@
 //////////////////PROBLEM 1////////////////////
 
-//Create a function declaration called greeting that
+//Create a function declaration called greeting that   
 //accepts name as its only parameter.
 //greeting should return the string "Hello, "
 //plus the value of the name parameter.
